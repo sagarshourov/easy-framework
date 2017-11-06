@@ -16,5 +16,5 @@
 ## Configuration System 
 
 - Step 1 : Open config.php 
-- Step 2 : Replace your won database name, host, password and url path.
+- Step 2 : Replace with your won database name, host, password and url path.
 - Enjoy
