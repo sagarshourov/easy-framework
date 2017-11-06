@@ -13,7 +13,7 @@
 - Front  end and back end mvc support with won js library (Up comming) 
  
 
-## Configure System 
+## Configuration System 
 
 - Step 1 : Open config.php 
 - Step 2 : Replace your won database name, host, password and url path.
